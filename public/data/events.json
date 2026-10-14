@@ -368,6 +368,41 @@
                 "title2": "Can Radio Astronomy Survive the Modern World?"
             },
             "title": "Aot Rhode Island #11"
+        },
+        {
+            "id": 12,
+            "address": {
+                "line1": "271 Tockwotton St",
+                "line2": "Providence, RI 02903"
+            },
+            "date": "2026-10-20T18:30:00-04:00",
+            "department": {
+                "dep1": "Department of Physics",
+                "dep2": "Department of Earth, Environmental & Planetary Sciences"
+            },
+            "iframesrc": "https://www.google.com/maps?q=Narragansett+Brewery,+271+Tockwotton+St,+Providence,+RI+02903&output=embed",
+            "institution": {
+                "ins1": "Brown University",
+                "ins2": "Brown University"
+            },
+            "location": "Narragansett Brewery",
+            "photoPath": {
+                "photo1": "/images/speakers/dellantonio.jpg",
+                "photo2": "/images/speakers/blevins.jpg"
+            },
+            "speaker": {
+                "speaker1": "Ian Dell'Antonio",
+                "speaker2": "Austin Blevins"
+            },
+            "speakerTitle": {
+                "title1": "Prof.",
+                "title2": "Dr."
+            },
+            "talkTitle": {
+                "title1": "Seeing the Universe through Einstein's lenses",
+                "title2": "The Secret History of the Solar System: What the Moon Tells Us That Earth Does Not"
+            },
+            "title": "Aot Rhode Island #12"
         }
     ]
 }
